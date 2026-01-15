@@ -1,3 +1,3 @@
 # Stock Price Prediction (LSTM)
 
-Work in progress.
+Work in progress.Will be updated soon.
